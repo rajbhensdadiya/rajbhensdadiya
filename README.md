@@ -1,5 +1,5 @@
 
-![Name](raj.png)
+![Name](https://i.imgur.com/E90viAt.png)
 
 <img align='right' src='https://i.imgur.com/lvScleq.png' width='400"'>
 
