@@ -17,7 +17,7 @@
 I am *Raj Bhensdadiya*. Final Year *B.Tech Computer Engineering Student*. *Senior AI/ML Intern at Stallion Techmark*.
 
 ## 👯 Communities
-* CTO at *Code Warriors*
+* Technical Lead at *Code Warriors*
 * Campus Ambassador at *Coding Blocks*
 
 ## ⚡ TechStack
