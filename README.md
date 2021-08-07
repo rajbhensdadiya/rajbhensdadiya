@@ -14,11 +14,11 @@
 [![Telegram](https://img.shields.io/badge/rajpatel1225-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rajpatel1225)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:rkumar79441@gmail.com)
 
-👋 Hi, I am *Raj.*<br/>
-🎓 Final Year Computer Engineering Student. (Jun 2021)<br/>
+👋 Hi, I am Raj. <br/>
+🎓 Graduated in Computer Engineering. (Jun 2021) <br/>
 🌇 Surat, GJ, India Native, with a passion for creating content, websites, and mobile applications.<br/>
 💻 Worked as Software Developer Intern at Stallion Techmark. As for my future, I hope to work as a Software Developer with a diverse team.<br/>
-📚 Hosted various technical events offline as well as online on topics like Machine Learning, Flutter, 21DaysofCode, etc.<br/>
+📚 Organized various technical events offline as well as online on topics like Machine Learning,  Flutter, 21DaysofCode, etc.<br/>
 🏔 If I am not coding, you can find me Travelling, Reading, and Listening to Music.<br/>
 
 ## 👯 Communities
