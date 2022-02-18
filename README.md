@@ -9,8 +9,8 @@
 ### Connect me:
 [![Linkedin Badge](https://img.shields.io/badge/RajBhensdadiya%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhensdadiya-117b8818a/)
 [![Facebook](https://img.shields.io/badge/rajpatel1225%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/rajpatel1225)
-[![IG](https://img.shields.io/badge/Computer.Lifee%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/computer.lifee)
-[![Twitter Badge](https://img.shields.io/badge/rajpatel1225%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rajpatel1225) 
+[![IG](https://img.shields.io/badge/Computer.Lifee%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/rajexplains)
+[![Twitter Badge](https://img.shields.io/badge/rajpatel1225%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rajexplains) 
 [![Telegram](https://img.shields.io/badge/rajpatel1225-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rajpatel1225)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:rkumar79441@gmail.com)
 
