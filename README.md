@@ -8,9 +8,7 @@
 
 ### Connect me:
 [![Linkedin Badge](https://img.shields.io/badge/RajBhensdadiya%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhensdadiya-117b8818a/)
-[![IG](https://img.shields.io/badge/RajExplains%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](http://instagram.com/rajexplains)
 [![Twitter Badge](https://img.shields.io/badge/0xRajPatel%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xrajpatel) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:rkumar79441@gmail.com)
 
 👋 Hi, I am Raj. <br/>
 🎓 Graduated in Computer Engineering. (Jun 2021) <br/>
