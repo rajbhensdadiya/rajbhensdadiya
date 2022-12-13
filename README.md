@@ -12,16 +12,16 @@
 
 👋 Hi, I am Raj. <br/>
 🎓 Graduated in Computer Engineering. (Jun 2021) <br/>
-🌇 Surat, GJ, India native, with a passion for creating content and building softwares.<br/>
-💻 Worked as Software Developer Intern at Stallion Techmark. As for my future, I hope to work as a Software Developer with a diverse team.<br/>
-📚 Organized various technical events offline as well as online on topics like Machine Learning,  Flutter, 21DaysofCode, etc.<br/>
-🏔 If I am not coding, you can find me Travelling, Reading, and Listening to Music.<br/>
+🌇 Passionate about creating content and building software. <br/>
+💻 Currently working at Rejoicehub Solutions as a ReactJS developer. As for my future, I hope to work as a Software Developer with a diverse team. <br/>
+📚 Organized technical events offline and online on topics like Machine Learning, Flutter, 21DaysofCode, etc. <br/>
+🏔 If I am not coding, you can find me Travelling, Reading, and Listening to Music. <br/>
 
 ## 👯 Communities
 * Technical Lead at *Code Warriors*
 
 ## ⚡ TechStack
-- *Programming Languages:-* **C/C++/Python/Dart**
+- *Programming Languages:-* **C, C++, Python3, JavaScript, Solidity**
 - *Front-end Development:-* **HTML, Javascript, CSS, Bootstrap, React.js, Next.js**
 - *Back-end Development:-* **Node.js, GraphQL, Strapi**
 - *Database:-* **MongoDB**
