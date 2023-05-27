@@ -7,7 +7,7 @@
 <img src="https://profile-counter.glitch.me/rajpatel1225/count.svg" />
 
 ### Connect me:
-[![Linkedin Badge](https://img.shields.io/badge/RajBhensdadiya%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhensdadiya-117b8818a/)
+[![Linkedin Badge](https://img.shields.io/badge/RajBhensdadiya%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhensdadiya)
 [![Twitter Badge](https://img.shields.io/badge/0xRajPatel%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/0xrajpatel) 
 
 👋 Hi, I am Raj. <br/>
