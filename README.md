@@ -17,9 +17,6 @@
 📚 Organized technical events offline and online on topics like Machine Learning, Flutter, 21DaysofCode, etc. <br/>
 🏔 If I am not coding, you can find me Travelling, Reading, and Listening to Music. <br/>
 
-## 👯 Communities
-* Technical Lead at *Code Warriors*
-
 ## ⚡ TechStack
 - *Programming Language*: **C, C++, Python3, JavaScript**
 - *Web Development*: **HTML, CSS, React.js, Next.js, Node.js, Express.js, MongoDB (MERN), Strapi, Django, FastAPI, Flask**
