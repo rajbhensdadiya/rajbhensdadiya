@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/RajBhensdadiya%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-bhensdadiya)
-[![Twitter Badge](https://img.shields.io/badge/0xRajPatel%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_rajbhensdadiya)
+[![Twitter Badge](https://img.shields.io/badge/_rajbhensdadiya%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_rajbhensdadiya)
 
 👋 Hi, I am Raj. <br />
 🎓 Graduated in Computer Engineering. (Jun 2021) <br />
